@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mQ0TqaagTWNG3ahlUP+SAjLAfcFiico1RlQxsKdQZ1tYgzw+AiPDZqIH2BEhomGfZsiCFMj2ptqMF8gN715bew==",
+  "dgSpecHash": "EbU4nncYYTm38SoBTnnZnrhwqhH4PSn+PiR+CqYKt87eagyFJ+bf+kPeL5TTCdxFbA9HryY6lHEjtWw+WsPDzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\upn_i\\Desktop\\T3_Apaza_Romero\\T3_Apaza_Romero.csproj",
+  "projectFilePath": "C:\\Users\\upn_i\\Desktop\\T_V0.0.1\\T3_Apaza_Romero\\T3_Apaza_Romero.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\upn_i\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\upn_i\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

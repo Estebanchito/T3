@@ -11907,11 +11907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\upn_i\\Desktop\\T3_Apaza_Romero\\T3_Apaza_Romero.csproj",
+      "projectUniqueName": "C:\\Users\\upn_i\\Desktop\\T_V0.0.1\\T3_Apaza_Romero\\T3_Apaza_Romero.csproj",
       "projectName": "T3_Apaza_Romero",
-      "projectPath": "C:\\Users\\upn_i\\Desktop\\T3_Apaza_Romero\\T3_Apaza_Romero.csproj",
+      "projectPath": "C:\\Users\\upn_i\\Desktop\\T_V0.0.1\\T3_Apaza_Romero\\T3_Apaza_Romero.csproj",
       "packagesPath": "C:\\Users\\upn_i\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\upn_i\\Desktop\\T3_Apaza_Romero\\obj\\",
+      "outputPath": "C:\\Users\\upn_i\\Desktop\\T_V0.0.1\\T3_Apaza_Romero\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\upn_i\\AppData\\Roaming\\NuGet\\NuGet.Config",
